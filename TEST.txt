@@ -1,0 +1,9 @@
+Following Instructions from 
+https://docs.github.com/en/enterprise-server@3.0/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+To make sure keys are properly connected.
+Creating new local directory - TEST and attempting to upload it to GitHub to see if it works.
+
+
+Watched this video to understand:
+https://www.youtube.com/watch?v=9p2d-CuVlgc

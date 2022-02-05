@@ -1,0 +1,9 @@
+When you initialize a local directory with git, you are placing tracking code inside the directory. Initializing the supervision of that directory. When you create and update files within that directory the supervisory code tracks it.
+You can request to see which files have changed with git status. This will give you a list of all the files that have changed within the directory you're in.
+Just because your local git supervisor knows changes have been made does NOT mean they will be pushed to your git account. 
+First you have to add the files by using git add filename
+
+When you call git status after adding your files the color should change in the terminal, and they'll be listed under "changes to be committed:"
+To add every change you've made use command: git commit -a 
+
+Adding files with git add does NOT add them to your git repository. It adds them to the staging area, where you public and private keys will be used to determine where your files go and if they have the proper permissions in place to get there.

@@ -9,3 +9,7 @@ To add every change you've made use command: git commit -a
 
 
 Adding files with git add does NOT add them to your git repository. It adds them to the staging area, where you public and private keys will be used to determine where your files go and if they have the proper permissions in place to get there.
+
+You NEED to make a new repository on GitHub in order to push it.
+
+Enter command: git remote add origin (origin path from new repo)

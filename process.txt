@@ -13,3 +13,7 @@ Adding files with git add does NOT add them to your git repository. It adds them
 You NEED to make a new repository on GitHub in order to push it.
 
 Enter command: git remote add origin (origin path from new repo)
+
+THESE SHOULD ALWAYS MATCH:
+origin	git@github.com:ktb8n/TEST.git (fetch)
+origin	git@github.com:ktb8n/TEST.git (push)
